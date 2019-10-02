@@ -1,5 +1,7 @@
 #Project files
 .metadata
+.vscode
+.git
 
 # Compiled class file
 *.class
