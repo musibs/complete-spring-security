@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https:///www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Hello Spring Security</title>
+    <link rel="stylesheet" href="/css/main.css" th:href="@{/css/main.css}">
+</head>
+<body>
+    <div th:substituteby="index::logout"></div>
+    <h1>This is a secure page!</h1>
+    <p><a href="/index" th:href=@{/index}>Back to home page</a></p>
+</body>
+</html>
