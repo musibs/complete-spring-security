@@ -25,5 +25,6 @@
     <modules>
 		<module>spring-security-basics</module>
 		<module>spring-security-base-app</module>
+		<module>spring-boot-todo-app</module>
     </modules>
 </project>
