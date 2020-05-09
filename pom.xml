@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>com.cc.security</groupId>
-    <artifactId>spring-security-all</artifactId>
+    <artifactId>complete-spring-security</artifactId>
     <version>1.0.0</version>
     <name>Complete Spring Security</name>
     <description>Complete Spring Security</description>
