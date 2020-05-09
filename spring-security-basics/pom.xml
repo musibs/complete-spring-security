@@ -4,14 +4,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.1.8.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
-	</parent>
+        <groupId>com.cc.security</groupId>
+    	<artifactId>spring-security-all</artifactId>
+    	<version>1.0.0</version>
+    </parent>
 	<groupId>io.codefountain.spring.security.basics</groupId>
 	<artifactId>spring-security-basics</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-security-basics</name>
 	<description>Spring Boot Security Basics</description>
 
